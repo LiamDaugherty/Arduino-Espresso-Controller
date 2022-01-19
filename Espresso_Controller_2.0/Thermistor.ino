@@ -9,10 +9,9 @@ void tempRead() {
 
   TX = (TX - 273.15) * 9/5 + 32; //Conversion to Fahrenheit
 
-  Serial.print("Temperature:");
-  Serial.print("\t");
-  Serial.print(TX);
-  Serial.println("F");
-  delay(250);
-
+//  Serial.print("Temperature:");
+//  Serial.print("\t");
+//  Serial.print(TX);
+//  Serial.println("F");
+//  delay(250);
 }
