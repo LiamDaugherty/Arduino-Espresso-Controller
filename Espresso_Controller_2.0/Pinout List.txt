@@ -1,0 +1,16 @@
+NANO33ioT pin connections
+
+3v3 - Right side BB positive
+A0 - Thermistor input
+Left Side GND - Left side BB negative
+VIN - Left side BB positive
+
+D9 - Steam mode LED output
+D8 - Shot mode LED output
+D7 - Boiler power LED output
+D6 - Shot/steam button input
+D5 - Pump button input
+D4 - Boiler power button input
+D3 - Pump relay output
+D2 - Boiler relay output
+Right side GND - Right side BB negative
